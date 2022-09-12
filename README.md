@@ -2,7 +2,7 @@
 METINVEST
 Mi primer repositorio
 
-OLVIDA..
+OLVIDA.. FORGET
 Olvida cada amabilidad que haces
 Tan pronto como lo hayas hecho.
 Olvida la alabanza que te corresponde en
@@ -11,7 +11,7 @@ Olvida las calumnias que escuchas
 Antes de que puedas repetirlas.
 Olvídate de cada leve despecho
 Donde sea que lo encuentres.
-RECUERDA..
+RECUERDA..REMEMBER
 Recuerda cada amabilidad hecha
 Para ti, sea cual sea su medida.
 Recuerda los elogios de otros ganados
